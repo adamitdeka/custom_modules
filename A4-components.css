@@ -1,0 +1,11 @@
+﻿/*ASSIGNMENT 4 WEB COMPONENTS*/
+*{
+    margin: 0;
+    padding:0;
+    text-decoration: none;
+}
+#template-container{
+    position:fixed;
+    right:20px;
+    top:20px;
+}
